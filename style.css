@@ -465,3 +465,17 @@ body {
 }.hero-content p{
     margin-top:20px;
 }
+.footer-top{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.social-links a{
+    margin-left: 15px;
+    text-decoration: none;
+}
+
+footer p{
+    text-align: center;
+}
